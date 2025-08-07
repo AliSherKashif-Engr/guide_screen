@@ -20,7 +20,7 @@
  {
     "title": "Jasper AI",
     "image_url": "./72e1c0ce-d7ae-4fb1-bce2-2ae6a111af86.webp",
-    "_lessonsMenuUrl": "https://alisherkashif-engr.github.io/my-lessons-data/chatgpt_lessons.json",
+    "_lessonsMenuUrl": "https://alisherkashif-engr.github.io/jasperai/jasperai_lessons.json",
     "lessons_count": "16",
     "level": "3 levels",
     "is_Completed": false
@@ -28,7 +28,7 @@
 {
     "title": "DALL-E",
     "image_url": "./72e1c0ce-d7ae-4fb1-bce2-2ae6a111af86.webp",
-    "_lessonsMenuUrl": "https://alisherkashif-engr.github.io/my-lessons-data/chatgpt_lessons.json",
+    "_lessonsMenuUrl": "https://alisherkashif-engr.github.io/dalle/dalle_lessons.json",
     "lessons_count": "16",
     "level": "3 levels",
     "is_Completed": false
